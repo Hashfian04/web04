@@ -1,0 +1,15 @@
+.video1 {
+    width: 100vh;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.HOME {
+text-decoration: none;
+color: black;
+}
